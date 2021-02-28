@@ -1,4 +1,4 @@
-![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/templategithub.png)  
+![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/templategithub.png "Michelle Lira")  
 
 <center>
 <table>
@@ -15,16 +15,20 @@
 ![](C:\Users\liram\Documents\GitHub\michelle-lira\githubprof\hellogiphy3.gif)
 
 ---
+## Senta que lá vem história :smile:
 
 Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
-
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
 
-Acredito no potencial transformador da **educação**, da **criatividade**, da **tecnologia** e tenho 
+Iniciei transição de carreira após 4 anos dedicados à Gestão Comercial. 
 
-como um dos propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+| Acredito no | potencial | transformador |
+|-------------|-----------|-----------------|
+|da **educação**, | da **criatividade**, | da **tecnologia** | 
 
-Estou em transição de carreira, após 4 anos dedicados à Gestão Comercial. 
+e tenho como um dos propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+
+
 
 ---
 
@@ -35,9 +39,23 @@ Persigo um milhão de sonhos, sou apaixonada por livros :books:, astronomia 🚀
 * Gosto de gato, cachorro e tudo o que é bicho :lion:
 
 * Mãe de menino :blue_heart:
+    - E de uma gata
 
-Quero contribuir para que mais mulheres entrem na tecnologia e apostem nos seus talentos! :sparkles:
-_Quanto mais diversidade, mais chances temos de fazer melhor!_
+Quero contribuir para que mais mulheres entrem na tecnologia e apostem nos seus talentos!
+
+:sparkles:  _**Quanto mais diversidade, mais chances temos de fazer melhor!**_  :sparkles:  
+
+---
+
+```javascript
+
+    //importante.js
+
+    const coragem = 'diariamente';
+    const empatia = 'por todos';
+
+    login (coragem, empatia);
+```
 
 ---
 
