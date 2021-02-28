@@ -1,4 +1,4 @@
-
+![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/templategithub.png)  
 
 <center>
 <table>
@@ -9,19 +9,47 @@
 </table>
 </center>
 
-### Hi there 👋
+# Bem-vindos! :wave:  
+![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/hellogiphy3.gif)  
 
-<!--
-**michelle-lira/michelle-lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](C:\Users\liram\Documents\GitHub\michelle-lira\githubprof\hellogiphy3.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduanda em Análise e Desenvolvimento de Sistemas.
+
+Estou aprendendo programação e Ciência de Dados. :bar_chart:
+
+Acredito no potencial transformador da **educação, da criatividade, da tecnologia** e tenho 
+
+como um dos propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+
+Estou em transição de carreira, após 4 anos dedicados à Gestão Comercial. 
+
+---
+
+Persigo um milhão de sonhos, sou apaixonada por livros :books:, astronomia 🚀, café :coffee: e música. :musical_note:
+
+* Correr também é uma excelente opção! :running_woman:
+
+* Gosto de gato, cachorro e tudo o que é bicho :lion:
+
+* Mãe de menino :blue_heart:
+
+Quero contribuir para que mais mulheres entrem na tecnologia e apostem nos seus talentos! :sparkles:
+_Quanto mais diversidade, mais chances temos de fazer melhor!_
+
+---
+
+### Minhas redes: 💬
+
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="16"></img></a> [Twitter](https://twitter.com/chell_lira_)   
+
+<a href="https://www.instagram.com/chell_lira_/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/chell_lira_)  
+
+<a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/michelle-lira)  
+
+<a href="mailto:mchll.lira.contato@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="16"></img></a> [Email](mailto:mchll.lira.contato@gmail.com)  
+
+---
+![](https://komarev.com/ghpvc/?username=michelle-lira&color=blue&style=flat)
