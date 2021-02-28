@@ -49,7 +49,7 @@ _Quanto mais diversidade, mais chances temos de fazer melhor!_
 
 <a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/michelle-lira)  
 
-<a href="mailto:mchll.lira.contato@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="16"></img></a> [Email](mailto:mchll.lira.contato@gmail.com)  
+<a href="mailto:mchll.lira@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="16"></img></a> [Email](mailto:mchll.lira@gmail.com)  
 
 ---
 ![](https://komarev.com/ghpvc/?username=michelle-lira&color=blue&style=flat)
