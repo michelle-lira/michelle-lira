@@ -16,7 +16,7 @@
 
 ---
 
-Graduanda em Análise e Desenvolvimento de Sistemas.
+Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
 
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
 
