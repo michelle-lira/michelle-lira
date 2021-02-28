@@ -20,7 +20,7 @@ Graduanda em Análise e Desenvolvimento de Sistemas.
 
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
 
-Acredito no potencial transformador da **educação, da criatividade, da tecnologia** e tenho 
+Acredito no potencial transformador da **educação**, da **criatividade**, da **tecnologia** e tenho 
 
 como um dos propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
 
