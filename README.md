@@ -15,7 +15,7 @@
 ![](C:\Users\liram\Documents\GitHub\michelle-lira\githubprof\hellogiphy3.gif)
 
 ---
-## Senta que lá vem história :smile:
+## Aí vão uns dados pra vocês :smile:
 
 Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
