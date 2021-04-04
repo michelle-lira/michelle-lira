@@ -9,7 +9,7 @@
 </table>
 </center>
 
-# Bem-vindos! :wave:  
+# Bem-vindos! :wave: :octocat: 
 ![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/hellogiphy3.gif)  
 
 ![](C:\Users\liram\Documents\GitHub\michelle-lira\githubprof\hellogiphy3.gif)
