@@ -9,13 +9,12 @@
 </table>
 </center>
 
-# Bem-vindos! :wave: :octocat: 
-![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/hellogiphy3.gif)  
+# Bem-vindos! :wave: :octocat:  
 
-![](C:\Users\liram\Documents\GitHub\michelle-lira\githubprof\tenor3.gif)
+![Olá!](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/tenor3.gif)
 
 ---
-## Aí vão uns dados pra vocês :smile:
+## Um pouco sobre mim: :smile:
 
 Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
