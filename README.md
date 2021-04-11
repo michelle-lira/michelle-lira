@@ -14,7 +14,7 @@
 ![Olá!](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/tenor3.gif)
 
 ---
-## Aí vão uns dados pra vocês :smile:
+## Se gosta de dados, aí vão alguns sobre mim: :smile:
 
 Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
 Estou aprendendo programação e Ciência de Dados. :bar_chart:
