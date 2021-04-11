@@ -42,7 +42,9 @@ Persigo um milhão de sonhos, sou apaixonada por livros :books:, astronomia 🚀
 
 Quero contribuir para que mais mulheres entrem na tecnologia e apostem nos seus talentos!
 
-:sparkles:  _**Quanto mais diversidade, mais chances temos de fazer melhor!**_  :sparkles:  
+:sparkles:  _**Quanto mais diversidade, mais chances temos de fazer melhor!**_  :sparkles:
+
+![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif)
 
 ---
 
