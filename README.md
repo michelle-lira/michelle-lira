@@ -40,7 +40,7 @@ Persigo um milhão de sonhos, sou apaixonada por livros :books:, astronomia 🚀
 * Mãe de menino :blue_heart:
     - E de uma gata
 
-Quero contribuir para que mais mulheres entrem na tecnologia e apostem nos seus talentos!
+Quero contribuir para que mais mulheres trabalhem com tecnologia e apostem nos seus talentos!
 
 :sparkles:  _**Quanto mais diversidade, mais chances temos de fazer melhor!**_  :sparkles:
 
