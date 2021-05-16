@@ -9,15 +9,16 @@
 </table>
 </center>
 
-# Bem-vindos! :wave: :octocat:  
+# Sejam bem-vindos! 👋 :octocat:  
 
 ![Olá!](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/tenor3.gif)
 
 ---
-## Um pouco sobre mim: :smile:
+## Um pouco sobre mim:
 
-Graduanda em Análise e Desenvolvimento de Sistemas. Lifelong learner.
-Estou aprendendo programação e Ciência de Dados. :bar_chart:
+* Graduanda em Análise e Desenvolvimento de Sistemas
+* Estudante de Programação Ciência de Dados :bar_chart:
+* Lifelong learner e Mãe de menino 💙
 
 Iniciei transição de carreira após 4 anos dedicados à Gestão Comercial. 
 
@@ -25,24 +26,16 @@ Iniciei transição de carreira após 4 anos dedicados à Gestão Comercial.
 |-------------|-----------|-----------------|
 |da **educação**, | da **criatividade**, | da **tecnologia** | 
 
-e tenho como um dos propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+e tenho como propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+Além de contribuir com inclusão e oportunidades para pessoas em situação de vulnerabilidade social. 
 
 
+Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e música. :musical_note:
 
----
+--- 
 
-Persigo um milhão de sonhos, sou apaixonada por livros :books:, astronomia 🚀, café :coffee: e música. :musical_note:
 
-* Correr também é uma excelente opção! :running_woman:
-
-* Gosto de gato, cachorro e tudo o que é bicho :lion:
-
-* Mãe de menino :blue_heart:
-    - E de uma gata
-
-Quero contribuir para que mais mulheres trabalhem com tecnologia e apostem nos seus talentos!
-
-:sparkles:  _**Quanto mais diversidade, mais chances temos de fazer melhor!**_  :sparkles:
+:sparkles: _**Quero contribuir para que mais mulheres tenham oportunidade de serem o que quiserem!**_ :sparkles: 
 
 ![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif)
 
