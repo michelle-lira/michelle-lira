@@ -26,7 +26,7 @@ Iniciei transição de carreira após 4 anos dedicados à Gestão Comercial.
 |-------------|-----------|-----------------|
 |da **educação**, | da **criatividade**, | da **tecnologia** | 
 
-e tenho como propósitos norteadores de carreira melhorar a vida das pessoas por meio do meu trabalho.
+e tenho como propósito norteador de carreira melhorar a vida das pessoas por meio do meu trabalho.
 Além de contribuir com inclusão e oportunidades para pessoas em situação de vulnerabilidade social. 
 
 
