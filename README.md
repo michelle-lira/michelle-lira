@@ -55,9 +55,9 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 
 ### Minhas redes: 💬
 
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="16"></img></a> [Twitter](https://twitter.com/chell_lira_)   
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="16"></img></a> [Twitter](https://twitter.com/__ch3ll__)   
 
-<a href="https://www.instagram.com/chell_lira_/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/chell_lira_)  
+<a href="https://www.instagram.com/__ch3ll__/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/__ch3ll__)  
 
 <a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/michelle-lira)  
 
