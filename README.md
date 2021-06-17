@@ -1,4 +1,4 @@
-![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/templategithub.png "Michelle Lira")  
+![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/cause_girls_run_the_whole_world!.png "Code like a Mom!")  
 
 <center>
 <table>
@@ -50,6 +50,23 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 
     login (coragem, empatia);
 ```
+
+---
+### Algumas comunidades onde podemos nos encontrar: 🤝
+
+>WoMakersCode @womakersgram
+>
+>Python Brasil @pythonbrasil
+>
+>Pyladies Brasil @pyladiesbrasil
+>
+>Pyladies Recife @pyladiesrecife
+>
+>Perifacode @perifacode
+>
+>Mulheres em IA @mulheres.em.ia
+>
+>Stem para Minas @stemparaminas
 
 ---
 
