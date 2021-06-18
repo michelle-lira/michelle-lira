@@ -9,16 +9,19 @@
 </table>
 </center>
 
-# Sejam bem-vindos! 👋 :octocat:  
+# Sejam bem-vindos! 👋 :octocat:
 
 ![Olá!](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/tenor3.gif)
 
 ---
 ## Um pouco sobre mim:
 
-* Graduanda em Análise e Desenvolvimento de Sistemas
-* Estudante de Programação Ciência de Dados :bar_chart:
-* Lifelong learner e Mãe de menino 💙
+> #### Me identifico com os pronomes: Ela/Dela
+
+* Sou graduanda em Análise e Desenvolvimento de Sistemas
+* Estudante de Programação e Ciência de Dados :bar_chart:
+* Lifelong learner 
+* Mãe de menino 💙
 
 Iniciei transição de carreira após 4 anos dedicados à Gestão Comercial. 
 
