@@ -85,3 +85,4 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 
 ---
 ![](https://komarev.com/ghpvc/?username=michelle-lira&color=blue&style=flat)
+
