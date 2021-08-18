@@ -11,15 +11,10 @@
 
 # Sejam bem-vindos! 👋 :octocat:
 
-![Olá!](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/tenor3.gif)
-
----
-## Um pouco sobre mim:
-
 > #### Me identifico com os pronomes: Ela/Dela
 
-* Sou graduanda em Análise e Desenvolvimento de Sistemas
-* Estudante de Programação e Ciência de Dados :bar_chart:
+* Analista de Dados :bar_chart:
+* Sou graduanda em Análise e Desenvolvimento de Sistemas 
 * Lifelong learner 
 * Mãe de menino 💙
 
@@ -37,10 +32,11 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 
 --- 
 
+:sparkles: _**Quero contribuir para que mais mulheres tenham oportunidade de serem o que quiserem!**_ :sparkles:
 
-:sparkles: _**Quero contribuir para que mais mulheres tenham oportunidade de serem o que quiserem!**_ :sparkles: 
-
-![](https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif)
+ <p align="center"> 
+     <img width="460" height="300" src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif"> 
+ </p> 
 
 ---
 
