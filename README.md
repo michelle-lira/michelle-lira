@@ -32,7 +32,9 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 
 --- 
 
-:sparkles: _**Quero contribuir para que mais mulheres tenham oportunidade de serem o que quiserem!**_ :sparkles:
+<p align= "center">
+    :sparkles: _**Quero contribuir para que mais mulheres tenham oportunidades para serem o que quiserem!**_ :sparkles:
+</p>
 
  <p align="center"> 
      <img width="460" height="300" src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif"> 
