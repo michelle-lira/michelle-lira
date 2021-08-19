@@ -33,7 +33,7 @@ Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e 
 --- 
 
 <p align= "center">
-    :sparkles: _**Quero contribuir para que mais mulheres tenham oportunidades para serem o que quiserem!**_ :sparkles:
+    :sparkles: Quero contribuir para que mais mulheres tenham oportunidades de serem o que quiserem! :sparkles:
 </p>
 
  <p align="center"> 
