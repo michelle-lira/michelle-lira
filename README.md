@@ -1,5 +1,7 @@
 # Olá, seja bem-vindo(a)! 👋 🐆
 
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
+
 > #### Me identifico com os pronomes: Ela/Dela
 
 * Sou Analista de Dados :bar_chart:
@@ -7,6 +9,15 @@
 * Lifelong learner 📖
 * Mãe de menino 💙
 * Além de tecnologia, gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:
+
+---
+
+<p align= "left">
+    :sparkles: Quero contribuir para que mais mulheres tenham oportunidades de serem o que quiserem! :sparkles:
+<br></br>
+</p>
+
+
 ---
 
 <center>
@@ -18,17 +29,8 @@
 </table>
 </center>
 
---- 
-
-<p align= "center">
-    :sparkles: Quero contribuir para que mais mulheres tenham oportunidades de serem o que quiserem! :sparkles:
-</p>
-
- <p align="center"> 
-     <img width="460" height="300" src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif"> 
- </p> 
-
 ---
+
 ### Algumas comunidades onde podemos nos encontrar: 🤝
 
 >WoMakersCode @womakersgram       
@@ -37,7 +39,8 @@
 >Pyladies Recife @pyladiesrecife       
 >Perifacode @perifacode       
 >Mulheres em IA @mulheres.em.ia       
->Terminal Rosa       
+>Terminal Rosa
+   
 ---
 
 ### Minhas redes: 💬
