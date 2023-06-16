@@ -31,18 +31,13 @@
 ---
 ### Algumas comunidades onde podemos nos encontrar: 🤝
 
->WoMakersCode @womakersgram
->
->Python Brasil @pythonbrasil
->
->Pyladies Brasil @pyladiesbrasil
->
->Pyladies Recife @pyladiesrecife
->
->Perifacode @perifacode
->
->Mulheres em IA @mulheres.em.ia
-
+>WoMakersCode @womakersgram       
+>Python Brasil @pythonbrasil       
+>Pyladies Brasil @pyladiesbrasil       
+>Pyladies Recife @pyladiesrecife       
+>Perifacode @perifacode       
+>Mulheres em IA @mulheres.em.ia       
+>Terminal Rosa       
 ---
 
 ### Minhas redes: 💬
