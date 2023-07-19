@@ -13,7 +13,7 @@
 ---
 
 <p align= "left">
-    :sparkles: Quero contribuir para que mais mulheres tenham oportunidades de serem o que quiserem! :sparkles:
+    :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:
 <br></br>
 </p>
 
