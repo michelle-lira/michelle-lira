@@ -1,14 +1,16 @@
 # Olá, seja bem-vindo(a)! 👋 🐆
 
 > #### Me identifico com os pronomes: Ela/Dela
-
+<br>
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
+<p></p>
 
 * Sou Analista de Dados :bar_chart:
 * Estudo Análise e Desenvolvimento de Sistemas 💻
 * Lifelong learner 📖
 * Mãe de menino 💙
 * Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:
+
 
 ---
 
@@ -42,13 +44,14 @@
 <center>
 <table>
     <tr>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark" /></td>
-        <td><img width="595px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark" /></td>
+        <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark" /></td>
     </tr>   
 </table>
 </center>
 
 ---
+
 
 ### Algumas comunidades onde podemos nos encontrar: 🤝
 
@@ -59,7 +62,7 @@
 >Perifacode @perifacode       
 >Mulheres em IA @mulheres.em.ia       
 >Terminal Rosa
-   
+    
 ---
 
 ### Minhas redes: 💬
