@@ -38,26 +38,17 @@
   <img align="center" alt="Mih-sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Mih-Grafanaa" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 </div>
+<br>
 
 ---
-
-##
 
 <div>
     <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
     <br>
-    <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
-    <br>
-    <br>
+    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
     <br>
 </div>
 
-##
-
-##
-##
-##
-##
 ---
 
 ### Algumas comunidades onde podemos nos encontrar: 🤝
