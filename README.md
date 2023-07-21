@@ -3,7 +3,8 @@
 > #### Me identifico com os pronomes: Ela/Dela
 
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
-<p></p>
+<br></br>
+
 
 * Sou Analista de Dados :bar_chart:
 * Estudo Análise e Desenvolvimento de Sistemas 💻
@@ -11,7 +12,6 @@
 * Mãe de menino 💙
 * Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:
 
-<br>
 
 ---
 
@@ -19,7 +19,6 @@
 <br>
     :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade    <br>
     de serem o que quiserem! :sparkles:
-<br>
 <br>
 <br>
     
