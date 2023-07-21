@@ -44,8 +44,7 @@
 
 <div>
     <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
-    <br>
-    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
+    <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
     <br>
 </div>
 
