@@ -41,17 +41,24 @@
 
 ---
 
-<center>
-<table>
-    <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark" /></td>
-        <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark" /></td>
-    </tr>   
-</table>
-</center>
+##
 
+<div>
+    <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
+    <br>
+    <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
+    <br>
+    <br>
+    <br>
+</div>
+
+##
+
+##
+##
+##
+##
 ---
-
 
 ### Algumas comunidades onde podemos nos encontrar: 🤝
 
