@@ -2,10 +2,10 @@
 
 > #### Me identifico com os pronomes: Ela/Dela
 
+<div>
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
 <br>
-</br>
-
+</div>
 
 * Sou Analista de Dados :bar_chart:
 * Estudo Análise e Desenvolvimento de Sistemas 💻
