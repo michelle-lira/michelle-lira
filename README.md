@@ -3,7 +3,8 @@
 > #### Me identifico com os pronomes: Ela/Dela
 
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
-<br></br>
+<br>
+</br>
 
 
 * Sou Analista de Dados :bar_chart:
@@ -42,11 +43,14 @@
 
 ---
 
-<div>
-    <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
-    <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/><p></p>
-    <br>
+<div style="display: inline_block"><br>
+    <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
 </div>
+
+<div style="display: inline_block"><br>
+    <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
+</div>
+<br>
 
 ---
 
