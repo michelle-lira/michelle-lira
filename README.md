@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a)! 👋 🐆
+# 👋 Olá, boas-vindas! 
 
 > #### Me identifico com os pronomes: Ela/Dela
 
@@ -17,10 +17,8 @@
 ---
 
 <p align= "left">
-<br>
     :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade    <br>
     de serem o que quiserem! :sparkles:
-<br>
 <br>
     
 </p>
@@ -54,7 +52,7 @@
 
 ---
 
-### Algumas comunidades onde podemos nos encontrar: 🤝
+### 🤝 Algumas comunidades onde podemos nos encontrar: 
 
 >WoMakersCode @womakersgram       
 >Python Brasil @pythonbrasil       
@@ -66,7 +64,7 @@
     
 ---
 
-### Minhas redes: 💬
+### Minhas redes: 
 
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="20"></img></a> [Twitter](https://twitter.com/deliramichelle)   
 
