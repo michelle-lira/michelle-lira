@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)! 👋 🐆
 
 > #### Me identifico com os pronomes: Ela/Dela
-<br>
+
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
 <p></p>
 
@@ -11,6 +11,7 @@
 * Mãe de menino 💙
 * Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:
 
+<br>
 
 ---
 
