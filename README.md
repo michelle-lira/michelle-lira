@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)! 👋 🐆
 
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=250 align=right>
 
 > #### Me identifico com os pronomes: Ela/Dela
 
@@ -13,8 +13,9 @@
 ---
 
 <p align= "left">
-    :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:
-<br></br>
+    :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade    <br>
+    de serem o que quiserem! :sparkles:
+<br>
 </p>
 
 ---
@@ -37,8 +38,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark" /></td>
+        <td><img width="595px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark" /></td>
     </tr>   
 </table>
 </center>
