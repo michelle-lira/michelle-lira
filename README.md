@@ -7,6 +7,7 @@
 </div>
 
 ---
+<br>
 
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
@@ -15,9 +16,8 @@
 🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:    
 <br>
         
-### :sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:
+:sparkles: __Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem!__ :sparkles:
 
-<br>
 <br>
 
 ---
@@ -39,26 +39,21 @@
 ---
 
 <div style="display: inline_block"><br>
-    <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
+    <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
+    <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
 </div>
 
-<div style="display: inline_block"><br>
-    <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
-</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
----
 
-### 🤝 Algumas comunidades onde podemos nos encontrar: 
-
->WoMakersCode @womakersgram       
->Python Brasil @pythonbrasil       
->Pyladies Brasil @pyladiesbrasil       
->Pyladies Recife @pyladiesrecife       
->Perifacode @perifacode       
->Mulheres em IA @mulheres.em.ia       
->Terminal Rosa
-    
 ---
 
 ### Minhas redes: 
