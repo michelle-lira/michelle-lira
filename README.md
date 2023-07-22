@@ -10,8 +10,9 @@
 🔸 Sou lifelong learner 📖    <p></p>
 🔸 Mãe de menino 💙    <p></p>
 🔸 Analista de Dados :bar_chart:    <p></p>
-🔸 Graduanda em Análise e Desenvolvimento de Sistemas 💻    <p></p>
-🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee:, música :musical_note: e de estar em contato com a natureza 🌄   <p></p>
+🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    <p></p>
+🔸 Captadora de recursos voluntária da ONG Fluxo sem Tabu 🩸    <p></p>
+🔸 Além de tecnologia amo livros, astronomia, café, música e estar em contato com a natureza 🌄   <p></p>
 </div>
 
 ##
