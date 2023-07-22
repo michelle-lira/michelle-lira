@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, boas-vindas!</h1>
 
 <div align="right">
-<p></p>
+<p> </p>
 </div>
 
 <div style="float: right;">
