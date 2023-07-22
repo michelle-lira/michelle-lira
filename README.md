@@ -2,7 +2,7 @@
 > #### Me identifico com os pronomes: Ela/Dela
 
 <div>
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=270 align=right>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
         <br>
 </div>
 
