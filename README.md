@@ -6,8 +6,7 @@
   <p></p>
 </div>
 <br>
-
-##
+<br>
 
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
