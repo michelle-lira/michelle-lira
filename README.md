@@ -1,7 +1,7 @@
-<h1 align="left">👋 Olá, boas-vindas!</h1>
+<h1 align="left">Olá, boas-vindas!👋🏼 </h1>
 
 <div align="right">
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=270 align=right>
 </div>
 
 
@@ -38,22 +38,23 @@
 
 
 <div style="display: inline_block"><br>
-    <img width="350px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
-    <img width="445px" align="justify" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
+    <img width="340px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
+    <img width="435px" align="justify" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
         <br>
 </div>
 
 ##
 
-<h3 align="left">Minhas redes:</h3>
+<h3 align="left"> Minhas redes:📳</h3>
+<br>
 
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="20"></img></a> [Twitter](https://twitter.com/deliramichelle)   
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="18"></img></a> [Twitter](https://twitter.com/deliramichelle)   
 
-<a href="https://www.instagram.com/__ch3ll__/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="20"></img></a> [Instagram](https://www.instagram.com/deliramichelle)  
+<a href="https://www.instagram.com/__ch3ll__/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="18"></img></a> [Instagram](https://www.instagram.com/deliramichelle)  
 
-<a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/lira-michelle)  
+<a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/lira-michelle)  
 
-<a href="mailto:mchll.lira@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="20"></img></a> [Email](mailto:mchll.lira@gmail.com)  
+<a href="mailto:mchll.lira@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="18"></img></a> [Email](mailto:mchll.lira@gmail.com)  
 
 ##
 
