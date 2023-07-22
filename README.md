@@ -1,24 +1,26 @@
-# 👋 Olá, boas-vindas! 
-> #### Me identifico com os pronomes: Ela/Dela
+
+<h1 align="left">👋 Olá, boas-vindas!</h1>
 
 <div>
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
-        <br>
 </div>
+<br>
 
-           
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
 🔸 Lifelong learner 📖    
 🔸 Mãe de menino 💙    
 🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:    
 <br>
-        
-:sparkles: __Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem!__ :sparkles:
-
-<br>
 
 ##
+
+<h4 align="center">:sparkles: Quero contribuir para que mais mulheres tenham <p></p>
+        autonomia e oportunidade de serem o que quiserem! :sparkles:</h4>
+
+<br>
+<br>
+
 
 <div style="display: inline_block"><br>
   <img align="justify" alt="Mih-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
