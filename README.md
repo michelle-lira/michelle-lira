@@ -4,17 +4,13 @@
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
 </div>
 
-<div align="right">
-<p><br></p>
-</div>
 
-<div align="left">
+<br align="left">
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
 🔸 Lifelong learner 📖    
 🔸 Mãe de menino 💙    
 🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e música :musical_note:    
-</div>
 
 ##
 
@@ -23,14 +19,15 @@
 <br>
 <br>
 
+##
 
 <div style="display: inline_block"><br>
-  <img align="justify" alt="Mih-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="justify" alt="Vane-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="justify" alt="Mih-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="justify" alt="Vane-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="justify" alt="Mih-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="justify" alt="Mih-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="justify" alt="MIh-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/>
-  <img align="center" alt="Mih-AWS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="justify" alt="Mih-AWS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="justify" alt="Mih-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="justify" alt="Mih-Anaconda" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="justify" alt="Mih-sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
