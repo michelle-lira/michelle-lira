@@ -2,7 +2,7 @@
 > #### Me identifico com os pronomes: Ela/Dela
 
 <div>
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=300 align=right>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=270 align=right>
         <br>
 </div>
 
@@ -18,7 +18,7 @@
 
 <br>
 
----
+##
 
 <div style="display: inline_block"><br>
   <img align="justify" alt="Mih-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -33,17 +33,16 @@
   <img align="justify" alt="Mih-Grafanaa" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 </div>
 
----
+##
 
 
 <div style="display: inline_block"><br>
     <img width="350px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-lira&hide=html&layout=compact&theme=onedark"/>
-    <img width="450px" align="justify" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
+    <img width="445px" align="justify" src="https://github-readme-stats.vercel.app/api?username=michelle-lira&theme=onedark"/>
         <br>
 </div>
 
-
----
+##
 
 <h3 align="left">Minhas redes:</h3>
 
@@ -55,6 +54,7 @@
 
 <a href="mailto:mchll.lira@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="20"></img></a> [Email](mailto:mchll.lira@gmail.com)  
 
----
+##
+
 ![](https://komarev.com/ghpvc/?username=michelle-lira&color=blue&style=flat)
 
