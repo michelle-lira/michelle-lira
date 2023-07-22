@@ -45,7 +45,7 @@
 
 ##
 
-<h3 align="left"> Minhas redes:📳</h3>
+<h3 align="left"> Minhas redes: 📲</h3>
 <br>
 
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="18"></img></a> [Twitter](https://twitter.com/deliramichelle)   
