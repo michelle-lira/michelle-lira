@@ -5,18 +5,19 @@
 </div>
 
 
-<br align="left">
-🔸 Sou Analista de Dados :bar_chart:    
-🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
-🔸 Lifelong learner 📖    
-🔸 Mãe de menino 💙    
-🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e música :musical_note:    
+<div align="left">
+  <br>
+🔸 Sou Analista de Dados :bar_chart:    <p></p>
+🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    <p></p>
+🔸 Lifelong learner 📖    <p></p>
+🔸 Mãe de menino 💙    <p></p>
+🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e música :musical_note:    <p></p>
+</div>
 
 ##
 
 <h4 align="left">:sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:</h4>
 
-<br>
 <br>
 
 ##
