@@ -1,19 +1,18 @@
 
 <h1 align="left">👋 Olá, boas-vindas!</h1>
+<br>
 
 <div style="float: right;">
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
-  <p></p>
 </div>
-<br>
-<br>
+
 
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
 🔸 Lifelong learner 📖    
 🔸 Mãe de menino 💙    
 🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:    
-<br>
+
 
 ##
 
