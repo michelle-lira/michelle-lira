@@ -2,9 +2,10 @@
 <h1 align="left">👋 Olá, boas-vindas!</h1>
 
 <div>
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
-</div>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right><p></p>
 <br>
+</div>
+
 
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
@@ -15,8 +16,7 @@
 
 ##
 
-<h4 align="center">:sparkles: Quero contribuir para que mais mulheres tenham <p></p>
-        autonomia e oportunidade de serem o que quiserem! :sparkles:</h4>
+<h4 align="center">:sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:</h4>
 
 <br>
 <br>
