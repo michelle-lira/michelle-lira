@@ -1,7 +1,8 @@
 <h1 align="left">👋 Olá, boas-vindas!</h1>
 
 <div style="float: right;">
-<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right>
+<img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right><p></p>
+<br>
 </div>
 
 
