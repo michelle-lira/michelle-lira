@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, boas-vindas!</h1>
 
 <div align="right">
-<p> </p>
+<p><br></p>
 </div>
 
 <div style="float: right;">
@@ -13,7 +13,7 @@
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
 🔸 Lifelong learner 📖    
 🔸 Mãe de menino 💙    
-🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e muita música :musical_note:    
+🔸 Além de tecnologia gosto de livros :books:, astronomia 🚀, café :coffee: e música :musical_note:    
 
 
 ##
