@@ -1,11 +1,10 @@
 
 <h1 align="left">👋 Olá, boas-vindas!</h1>
 
-<div>
+<div style="float: right;">
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/giphyall.gif" width=280 align=right><p></p>
-<br>
 </div>
-
+<br>
 
 🔸 Sou Analista de Dados :bar_chart:    
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    
