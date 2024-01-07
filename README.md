@@ -19,7 +19,6 @@
 
 <h4 align="left">:sparkles: Quero contribuir para que mais mulheres tenham autonomia e oportunidade de serem o que quiserem! :sparkles:</h4>
 
-
 ##
 
 <div style="display: inline_block"><br>
@@ -34,6 +33,7 @@
   <img align="justify" alt="Mih-sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="justify" alt="Mih-Grafanaa" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 </div>
+
 
 ##
 
@@ -59,5 +59,6 @@
 
 ##
 
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 ![](https://komarev.com/ghpvc/?username=michelle-lira&color=blue&style=flat)
 
