@@ -8,7 +8,6 @@
 <div align="left">
   <br>
 🔸 Sou lifelong learner 📖    <p></p>
-🔸 Mãe de menino 💙    <p></p>
 🔸 Analista de Dados :bar_chart:    <p></p>
 🔸 Estudo Análise e Desenvolvimento de Sistemas 💻    <p></p>
 🔸 Captadora de recursos voluntária da ONG Fluxo sem Tabu 🩸    <p></p>
