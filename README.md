@@ -50,11 +50,8 @@
 
 <img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/013-twitter.png" width="18"></img></a> [Twitter](https://twitter.com/deliramichelle)   
 
-<a href="https://www.instagram.com/__ch3ll__/"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/011-instagram.png" width="18"></img></a> [Instagram](https://www.instagram.com/deliramichelle)  
-
 <a href="https://www.linkedin.com/in/michelle-lira"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/010-linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/lira-michelle)  
 
-<a href="mailto:mchll.lira@gmail.com"><img src="https://github.com/michelle-lira/michelle-lira/blob/main/githubprof/gmail2.png" width="18"></img></a> [Email](mailto:mchll.lira@gmail.com)  
 
 ##
 
